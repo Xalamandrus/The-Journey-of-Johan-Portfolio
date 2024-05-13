@@ -11,7 +11,9 @@ Mój wkład w projekt obejmował głównie projektowanie i tworzenie wszystkich 
 # W-Portfolio-Umieszczam
 
 - Skrypty odpowiedzialne za AI przeciwników.
-  - [](Scripts/Enemy/)
+  - [BatChase.cs](Scripts/Enemy/BatChase.cs)
+  - [ChaseTrigger.cs](Scripts/Enemy/ChaseTrigger.cs)
+  - [WolfAI.cs](Scripts/Enemy/WolfAI.cs)
  
 - Skrypt dialogów z NPC.
   - [](Scripts/NPC/)
