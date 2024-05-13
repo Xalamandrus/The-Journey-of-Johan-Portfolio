@@ -15,5 +15,5 @@ Mój wkład w projekt obejmował głównie projektowanie i tworzenie wszystkich 
   - [ChaseTrigger.cs](Scripts/Enemy/ChaseTrigger.cs)
   - [WolfAI.cs](Scripts/Enemy/WolfAI.cs)
  
-- Skrypt odpowiedzialny za dialogi z NPC.
+- Skrypt odpowiedzialny za dialogi z NPC`tami.
   - [NPCDialogue.cs](Scripts/NPC/NPCDialogue.cs)
