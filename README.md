@@ -13,7 +13,7 @@ Mój wkład w projekt obejmował głównie projektowanie i tworzenie wszystkich 
 - Skrypty odpowiedzialne za AI przeciwników.
   - [BatChase.cs](Scripts/Enemy/BatChase.cs)
   - [ChaseTrigger.cs](Scripts/Enemy/ChaseTrigger.cs)
-  - [WolfAI.cs](Scripts/Enemy/WolfAl.cs)
+  - [WolfAI.cs](Scripts/Enemy/WolfAI.cs)
  
 - Skrypt dialogów z NPC.
   - [NPCDialogue.cs](Scripts/NPC/NPCDialogue.cs)
