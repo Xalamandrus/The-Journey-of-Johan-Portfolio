@@ -5,3 +5,5 @@ Journey of Johan" to gra, którą udało się stworzyć w trzy tygodnie. W ramac
 # Moja-Rola-W-Zespole
 
 Mój wkład w projekt obejmował głównie projektowanie i tworzenie wszystkich poziomów gry, zarządzanie pracą w silniku Unity oraz projektowanie AI przeciwników. Byłem odpowiedzialny za kształtowanie świata gry, dbanie o płynność rozgrywki oraz zapewnienie inteligentnego zachowania przeciwników.
+
+https://www.youtube.com/watch?v=G9KOc0nbG6A
