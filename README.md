@@ -1,6 +1,6 @@
 # The-Journey-of-Johan
 
-Journey of Johan" to gra, którą udało się stworzyć w trzy tygodnie. W ramach tego projektu, wraz z zespołem składającym się z sześciu osób - dwóch designerów, dwóch grafików i trzech programistów. Zajmowałem się dwoma głównymi aspektami: tworzeniem poziomów oraz zarządzaniem pracą w silniku Unity.
+Journey of Johan" to gra, którą udało się stworzyć w trzy tygodnie. W ramach tego projektu, wraz z zespołem składającym się z sześciu osób - dwóch designerów, dwóch grafików i trzech programistów. Jest to nasza pierwsza gra stworzona w życiu. Zajmowałem się dwoma głównymi aspektami: tworzeniem poziomów oraz zarządzaniem pracą w silniku Unity.
 
 Finałowa gra: https://www.youtube.com/watch?v=G9KOc0nbG6A
 
