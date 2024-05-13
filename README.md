@@ -11,7 +11,7 @@ Mój wkład w projekt obejmował głównie projektowanie i tworzenie wszystkich 
 # W-Portfolio-Umieszczam
 
 - Skrypty odpowiedzialne za AI przeciwników.
-  - []()
+  - [](Scripts/Enemy/)
  
 - Skrypt dialogów z NPC.
-  - []()
+  - [](Scripts/NPC/)
