@@ -16,4 +16,4 @@ Mój wkład w projekt obejmował głównie projektowanie i tworzenie wszystkich 
   - [WolfAI.cs](Scripts/Enemy/WolfAI.cs)
  
 - Skrypt dialogów z NPC.
-  - [](Scripts/NPC/)
+  - [NPCDialogue.cs](Scripts/NPC/NPCDialogue.cs)
