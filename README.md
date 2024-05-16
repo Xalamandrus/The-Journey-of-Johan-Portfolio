@@ -1,6 +1,6 @@
 # The-Journey-of-Johan
 
-"Journey of Johan" to nasza pierwsza gra stworzona przez sześcio osobowy zespół gdzie odgrywałem rolę designera i programisty. Zajmowałem się dwoma głównymi aspektami: tworzeniem poziomów oraz zarządzaniem pracą w silniku Unity.
+"Journey of Johan" to projekt gry gdzie odgrywałem rolę designera i programisty. Zajmowałem się dwoma głównymi aspektami: tworzeniem poziomów oraz zarządzaniem pracą w silniku Unity.
 
 Finałowa gra: https://www.youtube.com/watch?v=G9KOc0nbG6A
 
